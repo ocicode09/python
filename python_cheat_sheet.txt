@@ -1,0 +1,8 @@
+# pelajaran awal 
+- variables
+- receiving input
+- arithmatic operations
+- if statements
+- operators
+- while loops
+- for loops
